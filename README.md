@@ -58,7 +58,7 @@ O projeto requer um ambiente de servidor web com PHP e um banco de dados.
 2.  **Configuração do Banco de Dados:**
     Edite o arquivo `config/db.php` com as credenciais do seu banco de dados.
 3.  **Acesso:**
-    A aplicação pode ser acessada através do servidor web configurado (ex: `http://localhost/wsbrasil/web/`).
+    A aplicação pode ser acessada através do servidor web configurado (ex: `http://localhost/wsbrasil/`).
 
 ### 📝 Licença
 
